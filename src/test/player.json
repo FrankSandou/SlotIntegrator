@@ -1,0 +1,9 @@
+{
+  "currency_code": "{currency_code}",
+  "email": "{email}",
+  "name": "{name}",
+  "password_change": "{password_change}",
+  "password_repeat": "{password_repeat}",
+  "surname": "{username}",
+  "username": "{username}"
+}
